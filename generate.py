@@ -1190,3 +1190,10 @@ with open(output_path, "w", encoding="utf-8") as f:
 
 print(f"SUCCESS: Wrote {len(entries)} entries to {output_path}")
 print(f"File size: {os.path.getsize(output_path)} bytes")
+
+# Also trigger XML generation
+try:
+    import subprocess
+    subprocess.run(['python', 'generate_xml.py'], check=True)
+except Exception as e:
+    pass
