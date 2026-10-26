@@ -1,6 +1,0 @@
-[\n  {\n    "id": "1a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p",\n    "title": "Sample Journal Entry 1",\n    "author": "Author A",\n    "date": "2023-01-01T10:00:00Z",\n    "content": "This is the first entry."
-  },\n  {\n    "id": "2b3c4d5e-6f7g-8h9i-0j1k-l2m3n4o-5p6q",\n    "title": "Sample Journal Entry 2",\n    "author": "Author B",\n    "date": "2023-01-02T11:00:00Z",\n    "content": "This is the second entry."
-  },\n  {\n    "id": "3c4d5e6f-7g8h-9i0j-1k2l-m3n4o5p-6q7r",\n    "title": "Sample Journal Entry 3",\n    "author": "Author C",\n    "date": "2023-01-03T12:00:00Z",\n    "content": "This is the third entry."
-  },\n  {\n    "id": "4d5e6f7g-8h9i-0j1k-2l3m-n4o5p6q-7r8s",\n    "title": "Sample Journal Entry 4",\n    "author": "Author D",\n    "date": "2023-01-04T13:00:00Z",\n    "content": "This is the fourth entry."
-  },\n  {\n    "id": "5e6f7g8h-9i0j-1k2l-3m4n-o5p6q7r-8s9t",\n    "title": "Sample Journal Entry 5",\n    "author": "Author E",\n    "date": "2023-01-05T14:00:00Z",\n    "content": "This is the fifth entry."
-  }\n]
